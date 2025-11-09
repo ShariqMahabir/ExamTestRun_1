@@ -1,0 +1,41 @@
+MOVIE TICKETS SALES REPORT------------------------Movie: Oppenheimer
+Tickets: 3
+Price per Ticket: R100.0
+
+------------------------------
+MOVIE TICKETS SALES REPORTMovie: Napoleon
+Tickets: 9
+Price per Ticket: R100.0
+
+------------------------------
+MOVIE TICKETS SALES REPORTMovie: Oppenheimer
+Tickets: 3
+Price per Ticket: R100.0
+VAT (14%): Included
+Total Price: R342.00
+
+------------------------------
+Movie: Napoleon
+Tickets: 3
+Price per Ticket: R100.0
+Total Price: R342.00
+
+------------------------------
+MOVIE NAME: Napoleon
+MOVIE TICKET PRICE: R 100.0
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: R 342.00
+
+------------------------------
+MOVIE NAME: Damsel
+MOVIE TICKET PRICE: R 200.0
+NUMBER OF TICKETS: 4
+TOTAL TICKET PRICE: R 912.0
+
+------------------------------
+MOVIE NAME: Napoleon
+MOVIE TICKET PRICE: R 100.0
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: R 342.0
+
+------------------------------
